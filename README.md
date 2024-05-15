@@ -4,7 +4,7 @@
 $ whoami?
 ```
 
-Hi 👋 ,
+#### Hi 👋 
 
 I am an experienced and versatile IT professional with over 10 years of expertise in Linux systems administration, DevOps, and Information Security. I am adept at telecommunications software solutions, VoIP deployments, and cloud computing.
 
@@ -19,7 +19,7 @@ I have a longer README if you are interested in more about me.
 #### Professional Development & Goals:
 
 - 🌱 Currently learning Go and Rust
-- 🚀 2024 Goals: Ansible, Terraform/OpenTofu
+- 🚀 2024 Goals: Ansible, Terraform/OpenTofu, K3S
 
 ---
 
