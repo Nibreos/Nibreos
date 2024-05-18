@@ -12,7 +12,7 @@ As an advocate for open source, data privacy, and continuous learning, I am skil
 
 Holding a degree in Systems Administration with a focus on ensuring robust system integrity, I currently am employed as an *Infrastructure Systems Administrator* at a dynamic tech startup, which serves as __critical infrastructure to the United States__ and large organizations in austere environments.
 
-In my leisure time, I indulge in fixing (breaking?) my Arch Linux install, amateur system administration of my homelab, and software development endeavors. I also enjoy listening to Linux-centric podcasts for continuous learning. I engage in outdoor activities like mountain biking on trails, running, kayaking/fishing, and ice skating/hockey to stay active and balanced.
+In my leisure time, I indulge in fixing (breaking?) my Arch Linux install, amateur system administration of my homelab "SaaS"(Suffering as a Service), and software development endeavors. I also enjoy listening to Linux-centric podcasts for continuous learning. I engage in outdoor activities like mountain biking on trails, running, kayaking/fishing, and ice skating/hockey to stay active and balanced.
 
 I have a longer README if you are interested in more about me.
 
