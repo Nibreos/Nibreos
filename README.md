@@ -44,7 +44,7 @@ I have a longer README if you are interested in more about me.
   <img width="12" />
   <img src="https://cdn.simpleicons.org/powershell/5391FE" height="40" alt="powershell logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/amazonaws/232F3E" height="40" alt="amazonwebservices logo"  />
+  <img src="https://cdn.simpleicons.org/amazonwebservices/232F3E" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
   <img width="12" />
